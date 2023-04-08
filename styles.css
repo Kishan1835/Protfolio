@@ -726,7 +726,7 @@ text-decoration: none;
     width:15px;
 }
 
-::-webkit-scrollbar-attachment{
+::-webkit-scrollbar-track{
     background:#d1e5ff;
 }
 ::-webkit-scrollbar-thumb{
