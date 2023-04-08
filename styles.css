@@ -721,3 +721,15 @@ text-decoration: none;
   gap:1rem;
 
 }
+
+::-webkit-scrollbar{
+    width:15px;
+}
+
+::-webkit-scrollbar-attachment{
+    background:#d1e5ff;
+}
+::-webkit-scrollbar-thumb{
+    background:linear-gradient(#642bff,#ff22e6);
+    border-radius: 10px;
+}
